@@ -86,7 +86,7 @@ function ContactForm() {
           </div>
         </div>
         <Button type="submit" className="mt-10">
-          We're here to help
+          We are here to help
         </Button>
       </form>
     </FadeIn>
