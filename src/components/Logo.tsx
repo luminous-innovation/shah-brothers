@@ -1,3 +1,4 @@
+/* eslint-disable prefer-const */
 import { useId } from 'react'
 import clsx from 'clsx'
 
