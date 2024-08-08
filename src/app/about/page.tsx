@@ -29,7 +29,7 @@ function Culture() {
     <div className="mt-24 rounded-4xl bg-neutral-950 py-24 sm:mt-32 lg:mt-40 lg:py-32">
       <SectionIntro
         eyebrow="Our culture"
-        title="Balance your passion with your passion for life."
+        title="Believing in ourselves paves the way to remarkable success."
         invert
       >
         <p>
@@ -39,16 +39,14 @@ function Culture() {
       <Container className="mt-16">
         <GridList>
           <GridListItem title="Loyalty" invert>
-            Our team has been with us since the beginning because none of them
-            are allowed to have LinkedIn profiles.
+           As a commited business owner we show unwavering loyalty by consistently supporting
+           partners and fostering customer relationships.
           </GridListItem>
           <GridListItem title="Trust" invert>
-            We don’t care when our team works just as long as they are working
-            every waking second.
+            We believe in building mutual trust with our partners to attain shared goals.
           </GridListItem>
           <GridListItem title="Compassion" invert>
-            You never know what someone is going through at home and we make
-            sure to never find out.
+            Empathy helped us to grow and help our partners more efficiently.
           </GridListItem>
         </GridList>
       </Container>

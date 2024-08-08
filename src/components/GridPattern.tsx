@@ -1,3 +1,4 @@
+/* eslint-disable prefer-const */
 'use client'
 
 import { useEffect, useId, useRef, useState } from 'react'

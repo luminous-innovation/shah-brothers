@@ -1,4 +1,5 @@
-/** @type {import('prettier').Options} */
+/* eslint-disable no-undef */
+ /** @type {import('prettier').Options} */
 module.exports = {
   singleQuote: true,
   semi: false,
