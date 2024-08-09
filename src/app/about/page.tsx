@@ -10,7 +10,7 @@ import { PageIntro } from '@/components/PageIntro'
 import { PageLinks } from '@/components/PageLinks'
 import { SectionIntro } from '@/components/SectionIntro'
 import { StatList, StatListItem } from '@/components/StatList'
-import imageAngelaFisher from '@/images/team/angela-fisher.jpg'
+import imageAnkitShah from '@/images/team/AnkitShah.jpg'
 import imageBenjaminRussel from '@/images/team/benjamin-russel.jpg'
 import imageBlakeReid from '@/images/team/blake-reid.jpg'
 import imageChelseaHagon from '@/images/team/chelsea-hagon.jpg'
@@ -61,7 +61,7 @@ const team = [
       {
         name: 'Dr. Ankit Shah',
         role: 'Founder',
-        image: { src: imageLeslieAlexander },
+        image: { src: imageAnkitShah },
       },
       {
         name: 'Vaibhav Shah',
@@ -76,7 +76,7 @@ const team = [
       {
         name: 'Dr. Ankit Shah(radiologist)',
         role: 'Founder',
-        image: { src: imageChelseaHagon },
+        image: { src: imageAnkitShah },
       },
       {
         name: 'Vaibhav shah',
