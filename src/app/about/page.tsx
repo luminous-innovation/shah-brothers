@@ -10,18 +10,8 @@ import { PageIntro } from '@/components/PageIntro'
 import { PageLinks } from '@/components/PageLinks'
 import { SectionIntro } from '@/components/SectionIntro'
 import { StatList, StatListItem } from '@/components/StatList'
-import imageAnkitShah from '@/images/team/AnkitShah.jpg'
-import imageBenjaminRussel from '@/images/team/benjamin-russel.jpg'
-import imageBlakeReid from '@/images/team/blake-reid.jpg'
-import imageChelseaHagon from '@/images/team/chelsea-hagon.jpg'
-import imageDriesVincent from '@/images/team/dries-vincent.jpg'
-import imageEmmaDorsey from '@/images/team/emma-dorsey.jpg'
-import imageJeffreyWebb from '@/images/team/jeffrey-webb.jpg'
-import imageKathrynMurphy from '@/images/team/kathryn-murphy.jpg'
-import imageLeonardKrasner from '@/images/team/leonard-krasner.jpg'
-import imageLeslieAlexander from '@/images/team/leslie-alexander.jpg'
-import imageMichaelFoster from '@/images/team/michael-foster.jpg'
-import imageWhitneyFrancis from '@/images/team/whitney-francis.jpg'
+import imageAnkitShah from '@/images/team/ankit-shah.jpg'
+import imageVaibhavShah from '@/images/team/vaibhav-shah.jpg'
 import { loadArticles } from '@/lib/mdx'
 
 function Culture() {
@@ -66,7 +56,7 @@ const team = [
       {
         name: 'Vaibhav Shah',
         role: 'Partner',
-        image: { src: imageMichaelFoster },
+        image: { src: imageVaibhavShah },
       },
     ],
   },
@@ -81,7 +71,7 @@ const team = [
       {
         name: 'Vaibhav shah',
         role: 'Marketing head',
-        image: { src: imageEmmaDorsey },
+        image: { src: imageVaibhavShah },
       },    
     ],
   },
